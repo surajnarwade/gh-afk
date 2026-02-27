@@ -1,5 +1,7 @@
 # gh-afk
-gh extension to set user status
+
+`gh-afk` is a GitHub CLI extension that helps you manage your GitHub user status directly from the terminal. 
+Set yourself as AFK (Away From Keyboard) to prevent automatic pull request review assignments when you're in meetings, on vacation, or otherwise unavailable.
 
 ## Why this Extension?
 
