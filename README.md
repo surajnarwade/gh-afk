@@ -9,7 +9,7 @@ In some organizations, pull request reviews are automatically requested and assi
 
 If you have the GitHub mobile app, you can update your status on the go. But why not do it directly from the terminal? Since there's no REST API but a GraphQL API is available, this extension makes it easy.
 
-This is a fun Friday project to help solve this issue. Feel free to star it⭐, fork it, use it, and if you see any issues, send a PR!
+This is a fun Friday project to help solve this issue. Feel free to ⭐ star it, 🍴fork it, use it, and if you see any issues, send a PR!
 
 ## Installation
 
